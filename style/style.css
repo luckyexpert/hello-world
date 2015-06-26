@@ -1,0 +1,15 @@
+h1 {
+font-size:14px;
+color:blue;
+padding-top:4em;
+}
+
+body .content {
+  padding: 20px 10%;
+  border: solid 5px red;
+}
+
+.button {
+  background:red;
+  border: solid 3px black;
+}
