@@ -1,0 +1,9 @@
+h1 {
+font-size:14px;
+color:red;
+}
+
+body .content {
+  padding: 20px 10%;
+  border: solid 5px red;
+}
